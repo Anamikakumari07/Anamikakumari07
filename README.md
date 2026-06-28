@@ -41,3 +41,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Anamikakumari07
+
+- ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anamikakumari07&show_icons=true&theme=tokyonight)
