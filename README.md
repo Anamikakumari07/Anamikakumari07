@@ -55,3 +55,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anamikakumari07&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anamikakumari07&label=Profile%20Views&color=blue)
+
+## 🧩 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anamikaa_kumari/)
