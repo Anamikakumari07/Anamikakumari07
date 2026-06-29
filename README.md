@@ -2,19 +2,17 @@
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Student
+🎓 ECE Student
 
 💻 Passionate about Data Structures & Algorithms
 
 🌱 Currently Learning
 - C++
-- React
-- JavaScript
+- MERN
 - Git & GitHub
 
 🎯 Goal
 - Software Engineer
-- Semiconductor Engineer
 
 ---
 
@@ -24,7 +22,10 @@
 - HTML
 - CSS
 - JavaScript
-- React
+- React.js
+- MongoDB
+- Express.js
+- Node.js
 - Git
 - GitHub
 
@@ -34,7 +35,7 @@
 
 - 🚀 LeetCode
 - 📖 DSA
-- 💻 React Projects
+- 💻 MERN Projects
 
 ---
 
