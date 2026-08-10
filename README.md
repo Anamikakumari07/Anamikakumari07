@@ -43,9 +43,7 @@
 
 - GitHub: https://github.com/Anamikakumari07
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Anamikakumari07&theme=tokyonight)
+## 🔥 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anamikakumari07&label=Profile%20Views&color=blue)
 
